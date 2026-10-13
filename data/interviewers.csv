@@ -1,0 +1,13 @@
+interviewer_id,company_id,interviewer_name
+I101,C01,NovaBank Interviewer 1
+I102,C01,NovaBank Interviewer 2
+I103,C01,NovaBank Interviewer 3
+I104,C01,NovaBank Interviewer 4
+I201,C02,CloudKart Interviewer 1
+I202,C02,CloudKart Interviewer 2
+I203,C02,CloudKart Interviewer 3
+I204,C02,CloudKart Interviewer 4
+I301,C03,UrbanGrid Interviewer 1
+I302,C03,UrbanGrid Interviewer 2
+I303,C03,UrbanGrid Interviewer 3
+I304,C03,UrbanGrid Interviewer 4
